@@ -2,3 +2,5 @@ modificaçao
 nova linha
 nova linha feature
 nova linha (master)
+nova linha (feature/conflict)
+linha nova feita no merge
