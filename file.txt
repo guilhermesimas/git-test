@@ -2,4 +2,4 @@ modificação
 nova linha
 nova linha feature
 nova linha (feature/conflict)
-linha nova feita no merge
+linha nova feita no merge gittest
