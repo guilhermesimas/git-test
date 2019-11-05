@@ -3,3 +3,4 @@ nova linha
 nova linha feature
 nova linha (feature/conflict)
 linha nova feita no merge gittest
+linha adicionada em git-test-2
